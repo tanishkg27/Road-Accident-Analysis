@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.dll
+*.map
+node_modules/
+data/Accident_Information.csv
+data/Vehicle_Information.csv

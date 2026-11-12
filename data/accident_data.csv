@@ -1,0 +1,601 @@
+accident_id,date,time,location,vehicle_type,accident_severity,weather_conditions,number_of_casualties,fatalities,road_type,light_conditions
+SYN-0001,2022-06-07,11:43,Kanpur,Car,Serious,Clear,1,0,Urban Road,Dark - Street Lights
+SYN-0002,2025-09-28,08:00,Moradabad,Motorcycle,Minor,Dusty,2,0,Intersection,Daylight
+SYN-0003,2025-03-01,15:03,Bareilly,Truck,Minor,Clear,2,0,Urban Road,Dark - Street Lights
+SYN-0004,2024-02-14,18:55,Agra,Tractor,Minor,Dusty,2,0,Urban Road,Dark - No Street Lights
+SYN-0005,2024-02-04,09:34,Lucknow,Auto-rickshaw,Serious,Foggy,1,0,Rural Road,Daylight
+SYN-0006,2026-02-24,19:48,Agra,Motorcycle,Minor,Rainy,1,0,Highway,Daylight
+SYN-0007,2022-06-01,20:01,Gorakhpur,Motorcycle,Minor,Rainy,1,0,Highway,Daylight
+SYN-0008,2025-05-15,16:01,Kanpur,Tractor,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0009,2022-12-22,17:50,Meerut,Tractor,Minor,Rainy,1,0,Rural Road,Daylight
+SYN-0010,2022-06-16,05:06,Kanpur,Car,Minor,Clear,4,0,Urban Road,Dark - No Street Lights
+SYN-0011,2024-07-18,21:09,Lucknow,Truck,Minor,Cloudy,1,0,Rural Road,Dark - Street Lights
+SYN-0012,2026-09-18,12:31,Kanpur,Car,Minor,Clear,3,0,Intersection,Daylight
+SYN-0013,2025-07-22,20:36,Agra,Car,Minor,Clear,3,0,Rural Road,Dark - Street Lights
+SYN-0014,2025-09-05,16:13,Lucknow,Motorcycle,Minor,Rainy,2,0,Intersection,Daylight
+SYN-0015,2025-06-20,00:26,Prayagraj,Motorcycle,Minor,Rainy,4,0,Rural Road,Dark - Street Lights
+SYN-0016,2025-10-19,04:40,Agra,Motorcycle,Minor,Clear,1,0,Intersection,Daylight
+SYN-0017,2024-06-24,17:26,Ghaziabad,Auto-rickshaw,Minor,Rainy,1,0,Rural Road,Daylight
+SYN-0018,2022-08-15,15:22,Varanasi,Motorcycle,Serious,Clear,2,0,Rural Road,Dark - No Street Lights
+SYN-0019,2026-01-22,02:04,Varanasi,Motorcycle,Minor,Rainy,1,0,Rural Road,Dark - Street Lights
+SYN-0020,2024-03-05,18:27,Varanasi,Car,Fatal,Clear,2,2,Intersection,Dark - Street Lights
+SYN-0021,2024-06-02,19:48,Lucknow,Motorcycle,Serious,Clear,2,0,Urban Road,Daylight
+SYN-0022,2023-10-17,14:37,Ghaziabad,Motorcycle,Minor,Clear,4,0,Rural Road,Dark - Street Lights
+SYN-0023,2022-11-19,13:53,Lucknow,Car,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0024,2026-06-24,00:07,Ghaziabad,Motorcycle,Minor,Clear,4,0,Intersection,Daylight
+SYN-0025,2025-10-11,18:00,Gorakhpur,Car,Serious,Clear,4,1,Urban Road,Daylight
+SYN-0026,2025-02-10,10:32,Ghaziabad,Bicycle,Minor,Clear,4,0,Rural Road,Daylight
+SYN-0027,2023-12-12,20:10,Varanasi,Motorcycle,Serious,Clear,1,0,Rural Road,Daylight
+SYN-0028,2025-12-23,11:35,Agra,Bicycle,Minor,Clear,4,0,Intersection,Daylight
+SYN-0029,2024-08-20,15:54,Meerut,Bicycle,Minor,Clear,3,0,Urban Road,Dark - Street Lights
+SYN-0030,2024-02-22,09:20,Kanpur,Auto-rickshaw,Minor,Rainy,4,0,Rural Road,Dark - Street Lights
+SYN-0031,2024-03-06,07:32,Varanasi,Truck,Serious,Cloudy,2,0,Rural Road,Dark - No Street Lights
+SYN-0032,2023-02-06,18:40,Ghaziabad,Car,Minor,Clear,4,0,Intersection,Daylight
+SYN-0033,2022-06-12,14:09,Gorakhpur,Truck,Serious,Cloudy,3,0,Intersection,Dark - No Street Lights
+SYN-0034,2024-09-05,15:53,Gorakhpur,Truck,Serious,Clear,1,0,Urban Road,Daylight
+SYN-0035,2026-04-17,22:12,Moradabad,Motorcycle,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0036,2022-04-23,21:48,Meerut,Tractor,Minor,Rainy,1,0,Highway,Dark - Street Lights
+SYN-0037,2026-02-23,19:39,Lucknow,Car,Minor,Foggy,4,0,Intersection,Daylight
+SYN-0038,2025-12-31,08:08,Prayagraj,Bus,Serious,Foggy,2,0,Urban Road,Daylight
+SYN-0039,2023-05-04,16:43,Gorakhpur,Motorcycle,Minor,Clear,1,0,Rural Road,Daylight
+SYN-0040,2025-01-19,20:11,Bareilly,Motorcycle,Serious,Foggy,3,0,Rural Road,Daylight
+SYN-0041,2022-10-19,11:35,Gorakhpur,Car,Minor,Clear,2,0,Urban Road,Dark - Street Lights
+SYN-0042,2025-08-31,06:57,Agra,Car,Fatal,Clear,1,1,Highway,Daylight
+SYN-0043,2025-05-21,19:57,Agra,Car,Serious,Clear,4,1,Highway,Daylight
+SYN-0044,2023-09-18,14:52,Agra,Motorcycle,Minor,Dusty,4,0,Intersection,Daylight
+SYN-0045,2022-04-30,15:29,Agra,Motorcycle,Serious,Clear,3,0,Urban Road,Daylight
+SYN-0046,2026-09-10,22:33,Bareilly,Car,Serious,Foggy,3,0,Highway,Dark - Street Lights
+SYN-0047,2024-02-26,16:18,Varanasi,Motorcycle,Fatal,Rainy,2,1,Rural Road,Dark - No Street Lights
+SYN-0048,2026-04-26,12:55,Ghaziabad,Tractor,Minor,Foggy,3,0,Urban Road,Dark - Street Lights
+SYN-0049,2025-04-11,11:28,Varanasi,Motorcycle,Minor,Rainy,3,0,Intersection,Dark - No Street Lights
+SYN-0050,2025-10-05,12:46,Agra,Motorcycle,Minor,Cloudy,1,0,Urban Road,Daylight
+SYN-0051,2025-09-03,07:21,Lucknow,Motorcycle,Minor,Clear,1,0,Highway,Dark - Street Lights
+SYN-0052,2022-12-10,19:44,Prayagraj,Car,Minor,Clear,2,0,Highway,Daylight
+SYN-0053,2023-10-05,19:13,Meerut,Car,Minor,Rainy,2,0,Urban Road,Daylight
+SYN-0054,2024-04-03,09:44,Meerut,Truck,Minor,Clear,1,0,Urban Road,Dark - Street Lights
+SYN-0055,2024-05-28,09:02,Kanpur,Tractor,Minor,Clear,1,0,Rural Road,Daylight
+SYN-0056,2022-03-19,20:06,Varanasi,Motorcycle,Minor,Clear,4,0,Urban Road,Dark - No Street Lights
+SYN-0057,2024-08-22,02:21,Ghaziabad,Truck,Serious,Clear,2,0,Urban Road,Dark - Street Lights
+SYN-0058,2022-09-30,15:28,Bareilly,Motorcycle,Serious,Clear,3,0,Urban Road,Dark - No Street Lights
+SYN-0059,2025-08-05,13:42,Moradabad,Motorcycle,Minor,Clear,3,0,Urban Road,Daylight
+SYN-0060,2025-04-20,17:21,Prayagraj,Car,Minor,Cloudy,3,0,Intersection,Daylight
+SYN-0061,2026-06-17,07:01,Moradabad,Motorcycle,Serious,Clear,3,0,Highway,Dark - Street Lights
+SYN-0062,2025-08-07,17:19,Lucknow,Car,Minor,Dusty,2,0,Intersection,Daylight
+SYN-0063,2023-10-10,11:26,Bareilly,Truck,Minor,Dusty,4,0,Urban Road,Daylight
+SYN-0064,2026-09-04,16:32,Lucknow,Bus,Minor,Clear,2,0,Highway,Dark - Street Lights
+SYN-0065,2023-12-27,04:38,Agra,Car,Minor,Rainy,4,0,Urban Road,Dark - No Street Lights
+SYN-0066,2023-07-30,13:14,Prayagraj,Car,Minor,Rainy,2,0,Highway,Dark - Street Lights
+SYN-0067,2026-05-18,15:36,Bareilly,Car,Serious,Rainy,1,0,Rural Road,Daylight
+SYN-0068,2023-10-16,08:37,Varanasi,Motorcycle,Serious,Clear,4,0,Urban Road,Daylight
+SYN-0069,2022-05-15,07:46,Moradabad,Motorcycle,Minor,Clear,1,0,Urban Road,Daylight
+SYN-0070,2024-04-08,08:31,Ghaziabad,Truck,Serious,Clear,4,1,Rural Road,Daylight
+SYN-0071,2025-11-05,10:48,Gorakhpur,Other,Serious,Rainy,1,0,Rural Road,Daylight
+SYN-0072,2022-12-01,06:13,Meerut,Motorcycle,Minor,Dusty,1,0,Intersection,Daylight
+SYN-0073,2024-03-28,21:42,Ghaziabad,Car,Minor,Rainy,3,0,Intersection,Daylight
+SYN-0074,2022-08-18,12:02,Varanasi,Bus,Minor,Rainy,4,0,Rural Road,Daylight
+SYN-0075,2025-04-26,19:06,Meerut,Auto-rickshaw,Minor,Dusty,2,0,Rural Road,Daylight
+SYN-0076,2024-04-19,22:51,Varanasi,Car,Minor,Rainy,1,0,Rural Road,Daylight
+SYN-0077,2023-08-06,06:28,Lucknow,Car,Serious,Clear,1,1,Urban Road,Daylight
+SYN-0078,2023-02-05,17:37,Meerut,Truck,Minor,Cloudy,4,0,Rural Road,Dark - Street Lights
+SYN-0079,2024-09-23,19:36,Agra,Auto-rickshaw,Minor,Clear,3,0,Highway,Daylight
+SYN-0080,2025-03-28,17:41,Gorakhpur,Motorcycle,Serious,Clear,1,0,Rural Road,Dark - No Street Lights
+SYN-0081,2026-07-18,12:14,Agra,Bicycle,Minor,Clear,2,0,Intersection,Daylight
+SYN-0082,2024-02-11,12:10,Meerut,Motorcycle,Serious,Cloudy,2,0,Highway,Daylight
+SYN-0083,2022-10-11,03:02,Prayagraj,Auto-rickshaw,Serious,Clear,1,0,Rural Road,Daylight
+SYN-0084,2026-01-09,15:51,Varanasi,Motorcycle,Minor,Clear,4,0,Intersection,Daylight
+SYN-0085,2025-01-16,23:13,Kanpur,Motorcycle,Minor,Clear,3,0,Urban Road,Daylight
+SYN-0086,2025-05-20,21:34,Meerut,Motorcycle,Fatal,Clear,1,1,Urban Road,Dark - Street Lights
+SYN-0087,2022-06-21,04:27,Moradabad,Car,Serious,Clear,3,0,Intersection,Dark - No Street Lights
+SYN-0088,2023-07-06,18:09,Varanasi,Motorcycle,Fatal,Rainy,2,2,Intersection,Daylight
+SYN-0089,2025-09-17,09:24,Agra,Motorcycle,Minor,Cloudy,1,0,Highway,Daylight
+SYN-0090,2026-01-08,20:04,Prayagraj,Car,Serious,Clear,2,0,Urban Road,Dark - Street Lights
+SYN-0091,2024-02-08,05:10,Kanpur,Car,Minor,Clear,1,0,Rural Road,Daylight
+SYN-0092,2025-11-21,21:08,Bareilly,Bus,Minor,Clear,1,0,Urban Road,Daylight
+SYN-0093,2026-01-25,19:49,Agra,Bicycle,Minor,Clear,4,0,Urban Road,Dark - Street Lights
+SYN-0094,2023-11-15,07:34,Lucknow,Truck,Serious,Rainy,3,0,Highway,Daylight
+SYN-0095,2026-05-05,05:55,Lucknow,Motorcycle,Minor,Rainy,1,0,Highway,Dark - Street Lights
+SYN-0096,2023-05-24,19:26,Bareilly,Motorcycle,Minor,Rainy,4,0,Urban Road,Daylight
+SYN-0097,2023-02-27,07:12,Kanpur,Bicycle,Serious,Clear,3,0,Rural Road,Daylight
+SYN-0098,2025-04-19,15:36,Agra,Motorcycle,Minor,Rainy,4,0,Rural Road,Daylight
+SYN-0099,2025-01-28,20:55,Bareilly,Car,Minor,Clear,3,0,Rural Road,Dark - Street Lights
+SYN-0100,2022-09-04,16:31,Agra,Tractor,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0101,2026-01-09,12:01,Agra,Tractor,Minor,Cloudy,3,0,Urban Road,Dark - Street Lights
+SYN-0102,2022-12-19,13:18,Kanpur,Car,Serious,Foggy,3,0,Highway,Dark - Street Lights
+SYN-0103,2025-11-21,05:55,Agra,Truck,Serious,Cloudy,3,0,Highway,Dark - Street Lights
+SYN-0104,2022-01-13,22:31,Bareilly,Car,Minor,Cloudy,1,0,Urban Road,Daylight
+SYN-0105,2025-11-07,10:57,Prayagraj,Bus,Fatal,Rainy,2,1,Highway,Daylight
+SYN-0106,2025-10-20,08:30,Gorakhpur,Motorcycle,Serious,Cloudy,1,0,Highway,Daylight
+SYN-0107,2025-10-09,09:00,Ghaziabad,Motorcycle,Minor,Clear,2,0,Highway,Daylight
+SYN-0108,2025-03-19,21:52,Moradabad,Car,Serious,Clear,1,0,Rural Road,Dark - No Street Lights
+SYN-0109,2024-04-12,06:45,Agra,Motorcycle,Minor,Clear,1,0,Rural Road,Daylight
+SYN-0110,2025-05-29,19:42,Kanpur,Truck,Fatal,Clear,4,3,Intersection,Dark - No Street Lights
+SYN-0111,2023-05-05,18:58,Prayagraj,Motorcycle,Serious,Clear,1,1,Rural Road,Daylight
+SYN-0112,2025-10-09,19:11,Kanpur,Auto-rickshaw,Minor,Clear,4,0,Urban Road,Daylight
+SYN-0113,2024-09-07,22:54,Gorakhpur,Auto-rickshaw,Minor,Rainy,1,0,Highway,Daylight
+SYN-0114,2024-03-20,19:13,Kanpur,Car,Serious,Foggy,4,0,Urban Road,Dark - Street Lights
+SYN-0115,2024-06-11,21:58,Prayagraj,Bus,Minor,Rainy,2,0,Highway,Daylight
+SYN-0116,2024-09-30,07:11,Lucknow,Motorcycle,Minor,Clear,3,0,Urban Road,Daylight
+SYN-0117,2022-03-07,19:33,Gorakhpur,Car,Minor,Foggy,2,0,Urban Road,Dark - Street Lights
+SYN-0118,2022-09-04,15:47,Gorakhpur,Motorcycle,Serious,Clear,2,0,Urban Road,Daylight
+SYN-0119,2023-03-10,15:04,Ghaziabad,Auto-rickshaw,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0120,2022-07-22,20:04,Agra,Auto-rickshaw,Serious,Clear,3,0,Rural Road,Daylight
+SYN-0121,2024-02-15,22:50,Moradabad,Bicycle,Minor,Clear,2,0,Rural Road,Daylight
+SYN-0122,2025-03-25,17:03,Ghaziabad,Auto-rickshaw,Minor,Clear,3,0,Rural Road,Daylight
+SYN-0123,2025-03-01,14:36,Varanasi,Tractor,Minor,Foggy,4,0,Rural Road,Daylight
+SYN-0124,2024-04-11,13:56,Gorakhpur,Motorcycle,Minor,Foggy,2,0,Urban Road,Daylight
+SYN-0125,2026-02-18,11:36,Bareilly,Tractor,Minor,Rainy,2,0,Highway,Daylight
+SYN-0126,2024-09-24,11:28,Prayagraj,Car,Serious,Clear,1,0,Rural Road,Daylight
+SYN-0127,2022-05-20,12:25,Gorakhpur,Car,Minor,Foggy,2,0,Urban Road,Daylight
+SYN-0128,2025-09-12,06:38,Meerut,Car,Serious,Rainy,1,0,Urban Road,Daylight
+SYN-0129,2024-10-11,06:34,Varanasi,Motorcycle,Minor,Clear,1,0,Urban Road,Daylight
+SYN-0130,2025-01-25,18:30,Moradabad,Motorcycle,Serious,Rainy,4,0,Intersection,Daylight
+SYN-0131,2024-09-24,13:09,Moradabad,Motorcycle,Serious,Clear,1,1,Rural Road,Daylight
+SYN-0132,2024-09-04,21:39,Varanasi,Motorcycle,Serious,Clear,2,1,Urban Road,Daylight
+SYN-0133,2022-06-09,16:44,Prayagraj,Car,Serious,Clear,4,0,Rural Road,Dark - No Street Lights
+SYN-0134,2024-09-14,03:42,Moradabad,Auto-rickshaw,Serious,Clear,4,1,Urban Road,Dark - Street Lights
+SYN-0135,2025-11-04,07:04,Lucknow,Truck,Minor,Clear,1,0,Urban Road,Daylight
+SYN-0136,2023-06-21,08:42,Ghaziabad,Car,Minor,Clear,1,0,Urban Road,Daylight
+SYN-0137,2024-11-30,22:43,Ghaziabad,Car,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0138,2022-02-24,08:11,Moradabad,Car,Minor,Dusty,3,0,Rural Road,Dark - Street Lights
+SYN-0139,2023-09-06,14:50,Prayagraj,Motorcycle,Serious,Clear,4,0,Highway,Daylight
+SYN-0140,2024-02-10,21:31,Moradabad,Auto-rickshaw,Minor,Clear,1,0,Rural Road,Daylight
+SYN-0141,2026-10-01,22:28,Ghaziabad,Motorcycle,Serious,Clear,1,1,Urban Road,Daylight
+SYN-0142,2023-01-14,08:43,Meerut,Truck,Minor,Cloudy,2,0,Rural Road,Daylight
+SYN-0143,2023-05-04,05:30,Meerut,Bus,Serious,Rainy,4,1,Rural Road,Daylight
+SYN-0144,2023-12-23,07:32,Prayagraj,Car,Minor,Cloudy,1,0,Rural Road,Dark - No Street Lights
+SYN-0145,2026-10-19,06:18,Bareilly,Auto-rickshaw,Minor,Clear,2,0,Rural Road,Dark - No Street Lights
+SYN-0146,2026-02-15,08:55,Gorakhpur,Motorcycle,Serious,Clear,1,0,Intersection,Daylight
+SYN-0147,2022-03-03,16:58,Bareilly,Auto-rickshaw,Fatal,Rainy,1,1,Urban Road,Daylight
+SYN-0148,2023-02-17,20:07,Varanasi,Truck,Minor,Clear,4,0,Rural Road,Daylight
+SYN-0149,2025-12-21,15:43,Ghaziabad,Bus,Minor,Foggy,1,0,Rural Road,Daylight
+SYN-0150,2022-04-13,16:01,Prayagraj,Truck,Minor,Cloudy,2,0,Urban Road,Daylight
+SYN-0151,2026-02-19,08:22,Meerut,Auto-rickshaw,Minor,Clear,4,0,Urban Road,Daylight
+SYN-0152,2023-05-12,19:58,Prayagraj,Other,Serious,Dusty,3,0,Urban Road,Dark - Street Lights
+SYN-0153,2026-06-08,16:10,Meerut,Car,Serious,Rainy,1,1,Urban Road,Dark - No Street Lights
+SYN-0154,2023-06-03,19:22,Moradabad,Auto-rickshaw,Minor,Clear,2,0,Urban Road,Dark - Street Lights
+SYN-0155,2024-02-06,21:13,Moradabad,Bus,Minor,Clear,4,0,Urban Road,Dark - Street Lights
+SYN-0156,2025-03-14,10:43,Moradabad,Car,Minor,Clear,2,0,Rural Road,Daylight
+SYN-0157,2022-08-11,06:27,Prayagraj,Bicycle,Fatal,Foggy,3,2,Highway,Daylight
+SYN-0158,2024-09-10,08:35,Ghaziabad,Car,Minor,Clear,3,0,Rural Road,Daylight
+SYN-0159,2024-06-10,13:56,Kanpur,Car,Serious,Clear,3,1,Urban Road,Daylight
+SYN-0160,2025-10-15,21:31,Lucknow,Motorcycle,Minor,Rainy,1,0,Rural Road,Daylight
+SYN-0161,2026-10-25,11:44,Meerut,Motorcycle,Minor,Clear,4,0,Highway,Dark - Street Lights
+SYN-0162,2025-03-18,18:05,Ghaziabad,Auto-rickshaw,Minor,Clear,4,0,Urban Road,Daylight
+SYN-0163,2023-12-24,15:12,Bareilly,Car,Fatal,Rainy,1,1,Highway,Daylight
+SYN-0164,2023-12-19,08:56,Varanasi,Car,Minor,Clear,4,0,Rural Road,Daylight
+SYN-0165,2024-01-08,10:51,Varanasi,Motorcycle,Minor,Clear,4,0,Urban Road,Dark - No Street Lights
+SYN-0166,2025-12-07,17:39,Moradabad,Car,Serious,Clear,3,1,Intersection,Daylight
+SYN-0167,2023-07-21,17:22,Lucknow,Auto-rickshaw,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0168,2022-10-22,12:11,Meerut,Bicycle,Fatal,Clear,2,1,Urban Road,Daylight
+SYN-0169,2023-08-14,08:51,Agra,Motorcycle,Minor,Foggy,4,0,Urban Road,Dark - Street Lights
+SYN-0170,2022-02-10,18:47,Ghaziabad,Car,Minor,Dusty,1,0,Rural Road,Dark - No Street Lights
+SYN-0171,2022-07-07,07:14,Ghaziabad,Car,Minor,Clear,4,0,Urban Road,Daylight
+SYN-0172,2022-06-08,21:35,Agra,Car,Minor,Dusty,4,0,Urban Road,Dark - No Street Lights
+SYN-0173,2025-09-23,08:37,Kanpur,Car,Minor,Rainy,3,0,Highway,Daylight
+SYN-0174,2025-06-28,07:28,Bareilly,Car,Minor,Rainy,2,0,Highway,Dark - Street Lights
+SYN-0175,2025-05-14,14:55,Moradabad,Car,Minor,Rainy,3,0,Highway,Daylight
+SYN-0176,2024-03-26,15:07,Varanasi,Car,Minor,Rainy,1,0,Intersection,Daylight
+SYN-0177,2025-06-19,14:15,Meerut,Car,Minor,Foggy,4,0,Urban Road,Dark - Street Lights
+SYN-0178,2022-10-12,13:05,Ghaziabad,Car,Minor,Clear,2,0,Highway,Daylight
+SYN-0179,2026-05-09,23:41,Ghaziabad,Auto-rickshaw,Minor,Clear,1,0,Intersection,Daylight
+SYN-0180,2024-06-03,14:38,Moradabad,Bus,Minor,Clear,4,0,Highway,Dark - Street Lights
+SYN-0181,2026-07-14,14:59,Lucknow,Motorcycle,Minor,Clear,3,0,Urban Road,Dark - No Street Lights
+SYN-0182,2022-09-26,12:32,Kanpur,Auto-rickshaw,Minor,Rainy,3,0,Rural Road,Daylight
+SYN-0183,2024-05-27,06:09,Kanpur,Auto-rickshaw,Minor,Clear,1,0,Intersection,Dark - Street Lights
+SYN-0184,2025-05-14,16:27,Lucknow,Motorcycle,Minor,Clear,4,0,Rural Road,Dark - Street Lights
+SYN-0185,2024-05-24,08:05,Gorakhpur,Car,Minor,Clear,3,0,Urban Road,Daylight
+SYN-0186,2024-02-27,17:40,Lucknow,Motorcycle,Minor,Clear,4,0,Intersection,Dark - Street Lights
+SYN-0187,2022-10-21,05:40,Ghaziabad,Bus,Minor,Rainy,4,0,Highway,Daylight
+SYN-0188,2023-11-04,22:51,Prayagraj,Motorcycle,Minor,Rainy,1,0,Intersection,Dark - Street Lights
+SYN-0189,2023-02-26,13:20,Bareilly,Truck,Minor,Clear,1,0,Rural Road,Daylight
+SYN-0190,2023-06-17,20:18,Kanpur,Motorcycle,Minor,Clear,4,0,Intersection,Daylight
+SYN-0191,2025-04-21,13:04,Agra,Car,Serious,Clear,3,0,Urban Road,Daylight
+SYN-0192,2025-01-17,05:24,Bareilly,Tractor,Minor,Clear,2,0,Highway,Daylight
+SYN-0193,2024-12-07,19:28,Kanpur,Car,Minor,Rainy,2,0,Rural Road,Dark - Street Lights
+SYN-0194,2023-10-01,17:45,Bareilly,Auto-rickshaw,Minor,Rainy,3,0,Urban Road,Dark - No Street Lights
+SYN-0195,2026-08-21,18:45,Moradabad,Other,Serious,Clear,4,0,Urban Road,Daylight
+SYN-0196,2022-06-04,12:08,Moradabad,Auto-rickshaw,Minor,Clear,1,0,Intersection,Daylight
+SYN-0197,2023-08-28,17:17,Ghaziabad,Motorcycle,Minor,Dusty,3,0,Rural Road,Daylight
+SYN-0198,2022-07-28,19:30,Bareilly,Auto-rickshaw,Minor,Foggy,4,0,Urban Road,Daylight
+SYN-0199,2023-08-22,17:20,Moradabad,Motorcycle,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0200,2026-08-25,10:01,Meerut,Car,Minor,Clear,2,0,Highway,Dark - Street Lights
+SYN-0201,2023-10-09,17:50,Moradabad,Auto-rickshaw,Serious,Clear,4,0,Highway,Dark - Street Lights
+SYN-0202,2026-05-23,17:43,Gorakhpur,Truck,Serious,Cloudy,1,0,Highway,Daylight
+SYN-0203,2024-05-23,21:31,Ghaziabad,Car,Serious,Clear,2,0,Rural Road,Daylight
+SYN-0204,2025-05-19,11:19,Gorakhpur,Car,Minor,Clear,2,0,Rural Road,Daylight
+SYN-0205,2024-03-18,12:50,Gorakhpur,Auto-rickshaw,Minor,Dusty,4,0,Urban Road,Daylight
+SYN-0206,2023-04-15,19:02,Agra,Truck,Serious,Rainy,1,0,Urban Road,Daylight
+SYN-0207,2025-09-10,14:26,Ghaziabad,Car,Minor,Clear,2,0,Rural Road,Daylight
+SYN-0208,2026-09-07,18:48,Kanpur,Bicycle,Serious,Clear,1,0,Rural Road,Daylight
+SYN-0209,2023-04-11,13:57,Varanasi,Motorcycle,Minor,Clear,4,0,Intersection,Daylight
+SYN-0210,2025-10-06,08:15,Kanpur,Motorcycle,Minor,Rainy,3,0,Urban Road,Dark - Street Lights
+SYN-0211,2023-04-06,18:39,Varanasi,Truck,Minor,Clear,2,0,Rural Road,Daylight
+SYN-0212,2025-06-19,07:11,Meerut,Other,Serious,Cloudy,2,0,Urban Road,Daylight
+SYN-0213,2025-10-24,08:06,Varanasi,Motorcycle,Minor,Cloudy,1,0,Urban Road,Daylight
+SYN-0214,2024-03-04,16:21,Moradabad,Motorcycle,Minor,Clear,4,0,Intersection,Dark - No Street Lights
+SYN-0215,2025-07-24,18:53,Agra,Motorcycle,Minor,Rainy,3,0,Urban Road,Daylight
+SYN-0216,2023-04-26,20:41,Ghaziabad,Auto-rickshaw,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0217,2022-05-20,09:29,Prayagraj,Motorcycle,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0218,2022-06-20,07:16,Prayagraj,Car,Serious,Foggy,3,0,Urban Road,Daylight
+SYN-0219,2024-02-28,21:08,Varanasi,Other,Minor,Clear,3,0,Urban Road,Daylight
+SYN-0220,2026-05-13,07:16,Kanpur,Motorcycle,Serious,Clear,2,0,Rural Road,Dark - Street Lights
+SYN-0221,2022-08-14,08:09,Prayagraj,Car,Serious,Clear,2,0,Urban Road,Daylight
+SYN-0222,2024-03-15,09:11,Bareilly,Car,Minor,Clear,3,0,Highway,Daylight
+SYN-0223,2025-05-27,15:41,Meerut,Auto-rickshaw,Minor,Clear,3,0,Intersection,Daylight
+SYN-0224,2022-12-24,20:07,Bareilly,Motorcycle,Minor,Rainy,3,0,Urban Road,Dark - Street Lights
+SYN-0225,2025-06-27,18:02,Gorakhpur,Car,Minor,Foggy,1,0,Intersection,Dark - Street Lights
+SYN-0226,2023-06-25,18:32,Meerut,Motorcycle,Minor,Rainy,2,0,Highway,Dark - Street Lights
+SYN-0227,2025-11-28,08:17,Moradabad,Bus,Fatal,Foggy,3,3,Urban Road,Daylight
+SYN-0228,2024-10-19,11:27,Agra,Bus,Fatal,Clear,4,1,Urban Road,Dark - Street Lights
+SYN-0229,2024-08-23,14:08,Agra,Motorcycle,Serious,Foggy,3,0,Rural Road,Dark - Street Lights
+SYN-0230,2022-11-09,07:12,Moradabad,Car,Minor,Clear,2,0,Highway,Daylight
+SYN-0231,2024-03-28,09:26,Lucknow,Bicycle,Serious,Clear,3,0,Intersection,Daylight
+SYN-0232,2026-02-20,10:41,Ghaziabad,Motorcycle,Serious,Cloudy,1,0,Urban Road,Dark - Street Lights
+SYN-0233,2022-02-04,07:24,Agra,Motorcycle,Minor,Clear,1,0,Urban Road,Daylight
+SYN-0234,2025-08-31,15:32,Lucknow,Car,Minor,Clear,3,0,Urban Road,Dark - Street Lights
+SYN-0235,2024-05-19,17:31,Kanpur,Motorcycle,Minor,Clear,4,0,Highway,Daylight
+SYN-0236,2025-06-23,06:16,Kanpur,Motorcycle,Minor,Clear,4,0,Urban Road,Daylight
+SYN-0237,2025-03-16,14:16,Lucknow,Car,Minor,Clear,3,0,Urban Road,Daylight
+SYN-0238,2024-02-02,18:25,Lucknow,Motorcycle,Minor,Clear,1,0,Urban Road,Dark - Street Lights
+SYN-0239,2023-06-29,18:01,Ghaziabad,Car,Minor,Cloudy,4,0,Rural Road,Dark - Street Lights
+SYN-0240,2025-01-12,19:41,Meerut,Truck,Serious,Clear,2,0,Urban Road,Daylight
+SYN-0241,2022-09-05,13:36,Varanasi,Car,Fatal,Clear,2,2,Highway,Daylight
+SYN-0242,2024-10-27,19:18,Bareilly,Motorcycle,Minor,Clear,4,0,Highway,Daylight
+SYN-0243,2022-06-17,08:22,Gorakhpur,Auto-rickshaw,Serious,Foggy,3,0,Highway,Daylight
+SYN-0244,2025-02-20,11:19,Meerut,Motorcycle,Fatal,Clear,3,1,Highway,Dark - No Street Lights
+SYN-0245,2025-01-14,08:39,Moradabad,Bus,Minor,Clear,2,0,Rural Road,Daylight
+SYN-0246,2022-05-30,13:45,Gorakhpur,Motorcycle,Minor,Clear,4,0,Highway,Daylight
+SYN-0247,2025-08-29,12:06,Moradabad,Bus,Minor,Rainy,2,0,Intersection,Daylight
+SYN-0248,2024-01-04,08:24,Moradabad,Motorcycle,Minor,Foggy,3,0,Highway,Dark - No Street Lights
+SYN-0249,2025-10-20,18:00,Varanasi,Motorcycle,Serious,Rainy,4,0,Highway,Daylight
+SYN-0250,2022-03-15,10:27,Ghaziabad,Car,Minor,Foggy,3,0,Intersection,Dark - Street Lights
+SYN-0251,2022-11-13,09:14,Moradabad,Motorcycle,Minor,Clear,1,0,Urban Road,Daylight
+SYN-0252,2024-05-21,07:20,Kanpur,Motorcycle,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0253,2022-11-29,13:27,Kanpur,Truck,Minor,Clear,2,0,Intersection,Dark - Street Lights
+SYN-0254,2023-08-06,09:19,Agra,Auto-rickshaw,Serious,Clear,4,0,Intersection,Daylight
+SYN-0255,2025-03-11,11:23,Gorakhpur,Motorcycle,Minor,Clear,3,0,Rural Road,Dark - Street Lights
+SYN-0256,2022-09-13,08:45,Agra,Auto-rickshaw,Minor,Clear,2,0,Highway,Daylight
+SYN-0257,2025-04-11,18:48,Kanpur,Bus,Minor,Clear,3,0,Urban Road,Dark - Street Lights
+SYN-0258,2022-07-02,21:00,Lucknow,Auto-rickshaw,Minor,Rainy,3,0,Intersection,Dark - Street Lights
+SYN-0259,2022-11-06,14:22,Lucknow,Truck,Minor,Clear,2,0,Intersection,Dark - Street Lights
+SYN-0260,2024-11-03,17:50,Lucknow,Truck,Minor,Rainy,2,0,Highway,Daylight
+SYN-0261,2025-11-01,19:31,Prayagraj,Car,Minor,Rainy,4,0,Urban Road,Dark - Street Lights
+SYN-0262,2022-10-29,23:12,Varanasi,Truck,Minor,Clear,3,0,Urban Road,Dark - No Street Lights
+SYN-0263,2023-06-14,16:35,Varanasi,Bicycle,Serious,Clear,1,1,Highway,Daylight
+SYN-0264,2026-06-21,20:08,Meerut,Motorcycle,Minor,Rainy,3,0,Rural Road,Daylight
+SYN-0265,2026-10-13,20:01,Prayagraj,Motorcycle,Minor,Rainy,3,0,Urban Road,Dark - Street Lights
+SYN-0266,2024-10-22,18:37,Lucknow,Motorcycle,Serious,Clear,3,0,Urban Road,Daylight
+SYN-0267,2024-02-29,13:30,Agra,Tractor,Serious,Clear,3,0,Highway,Dark - Street Lights
+SYN-0268,2023-09-05,06:45,Agra,Car,Minor,Rainy,4,0,Urban Road,Dark - Street Lights
+SYN-0269,2024-12-16,01:20,Meerut,Truck,Minor,Rainy,2,0,Highway,Daylight
+SYN-0270,2024-11-08,13:51,Agra,Auto-rickshaw,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0271,2023-06-05,14:25,Lucknow,Other,Minor,Clear,1,0,Highway,Daylight
+SYN-0272,2022-02-10,12:44,Ghaziabad,Motorcycle,Serious,Cloudy,3,0,Intersection,Daylight
+SYN-0273,2022-09-25,16:06,Varanasi,Bus,Minor,Clear,2,0,Highway,Dark - No Street Lights
+SYN-0274,2026-08-19,15:05,Moradabad,Auto-rickshaw,Serious,Cloudy,2,0,Urban Road,Daylight
+SYN-0275,2024-01-09,19:46,Bareilly,Motorcycle,Serious,Clear,3,0,Highway,Daylight
+SYN-0276,2024-05-01,07:50,Kanpur,Bus,Minor,Clear,2,0,Highway,Dark - Street Lights
+SYN-0277,2024-04-04,08:56,Meerut,Motorcycle,Serious,Clear,2,0,Highway,Daylight
+SYN-0278,2025-10-13,18:19,Meerut,Truck,Minor,Clear,2,0,Highway,Dark - Street Lights
+SYN-0279,2022-04-25,19:01,Agra,Car,Serious,Cloudy,2,0,Highway,Daylight
+SYN-0280,2022-05-27,23:58,Prayagraj,Motorcycle,Minor,Clear,1,0,Urban Road,Daylight
+SYN-0281,2023-05-02,20:36,Prayagraj,Motorcycle,Minor,Dusty,4,0,Rural Road,Daylight
+SYN-0282,2024-05-08,20:14,Bareilly,Motorcycle,Minor,Clear,1,0,Highway,Dark - Street Lights
+SYN-0283,2025-03-30,10:45,Moradabad,Motorcycle,Minor,Cloudy,2,0,Urban Road,Dark - Street Lights
+SYN-0284,2024-05-16,12:54,Agra,Truck,Minor,Cloudy,3,0,Urban Road,Dark - Street Lights
+SYN-0285,2024-02-18,09:17,Lucknow,Motorcycle,Serious,Rainy,1,0,Urban Road,Dark - No Street Lights
+SYN-0286,2026-07-14,16:46,Bareilly,Motorcycle,Minor,Clear,3,0,Urban Road,Dark - Street Lights
+SYN-0287,2022-10-12,21:47,Moradabad,Truck,Minor,Rainy,3,0,Highway,Dark - Street Lights
+SYN-0288,2024-10-06,10:30,Prayagraj,Truck,Minor,Clear,3,0,Urban Road,Daylight
+SYN-0289,2024-08-15,15:37,Ghaziabad,Car,Minor,Cloudy,2,0,Urban Road,Dark - No Street Lights
+SYN-0290,2024-04-15,09:16,Gorakhpur,Tractor,Minor,Clear,1,0,Intersection,Dark - Street Lights
+SYN-0291,2025-11-26,07:55,Kanpur,Car,Serious,Clear,4,0,Intersection,Dark - No Street Lights
+SYN-0292,2023-04-17,08:58,Moradabad,Auto-rickshaw,Minor,Clear,2,0,Intersection,Daylight
+SYN-0293,2026-08-11,05:58,Ghaziabad,Motorcycle,Minor,Rainy,4,0,Urban Road,Daylight
+SYN-0294,2023-08-09,21:44,Moradabad,Bus,Minor,Dusty,1,0,Highway,Dark - Street Lights
+SYN-0295,2024-08-19,12:02,Moradabad,Other,Minor,Clear,1,0,Urban Road,Daylight
+SYN-0296,2024-07-07,19:21,Gorakhpur,Auto-rickshaw,Minor,Foggy,4,0,Urban Road,Daylight
+SYN-0297,2026-02-08,17:26,Meerut,Car,Serious,Cloudy,4,0,Highway,Dark - No Street Lights
+SYN-0298,2024-02-14,08:57,Ghaziabad,Car,Minor,Clear,4,0,Highway,Daylight
+SYN-0299,2023-05-18,08:32,Meerut,Motorcycle,Fatal,Clear,4,3,Urban Road,Daylight
+SYN-0300,2022-02-08,19:32,Moradabad,Truck,Minor,Rainy,1,0,Urban Road,Daylight
+SYN-0301,2023-10-04,09:08,Moradabad,Bus,Minor,Rainy,4,0,Highway,Daylight
+SYN-0302,2025-12-29,20:47,Agra,Other,Serious,Clear,3,0,Rural Road,Dark - Street Lights
+SYN-0303,2022-01-18,07:20,Moradabad,Car,Serious,Foggy,1,0,Urban Road,Dark - No Street Lights
+SYN-0304,2026-05-01,17:05,Meerut,Motorcycle,Serious,Clear,1,0,Intersection,Dark - No Street Lights
+SYN-0305,2024-08-16,19:59,Moradabad,Car,Fatal,Cloudy,4,3,Urban Road,Dark - Street Lights
+SYN-0306,2022-09-05,08:11,Prayagraj,Motorcycle,Serious,Cloudy,2,1,Urban Road,Dark - Street Lights
+SYN-0307,2023-06-18,09:00,Meerut,Motorcycle,Serious,Foggy,4,0,Highway,Daylight
+SYN-0308,2024-09-04,21:04,Ghaziabad,Motorcycle,Minor,Clear,1,0,Urban Road,Dark - Street Lights
+SYN-0309,2023-07-12,09:27,Kanpur,Bus,Serious,Clear,2,1,Highway,Daylight
+SYN-0310,2022-07-11,12:06,Varanasi,Motorcycle,Minor,Clear,2,0,Highway,Daylight
+SYN-0311,2025-03-21,12:50,Prayagraj,Motorcycle,Minor,Clear,2,0,Rural Road,Dark - No Street Lights
+SYN-0312,2025-04-01,09:30,Ghaziabad,Motorcycle,Minor,Rainy,3,0,Urban Road,Dark - Street Lights
+SYN-0313,2022-07-29,18:19,Varanasi,Auto-rickshaw,Fatal,Clear,4,3,Highway,Daylight
+SYN-0314,2023-05-12,18:00,Kanpur,Truck,Fatal,Clear,4,1,Intersection,Dark - Street Lights
+SYN-0315,2023-03-07,11:28,Ghaziabad,Motorcycle,Minor,Clear,3,0,Highway,Daylight
+SYN-0316,2025-03-09,19:09,Meerut,Motorcycle,Serious,Clear,1,1,Urban Road,Daylight
+SYN-0317,2025-07-12,08:58,Varanasi,Car,Serious,Clear,4,0,Urban Road,Daylight
+SYN-0318,2025-07-07,00:17,Moradabad,Motorcycle,Minor,Rainy,3,0,Urban Road,Daylight
+SYN-0319,2026-07-15,16:28,Prayagraj,Car,Minor,Foggy,3,0,Urban Road,Daylight
+SYN-0320,2025-09-18,23:01,Meerut,Car,Minor,Clear,3,0,Highway,Daylight
+SYN-0321,2023-07-20,04:07,Gorakhpur,Bicycle,Serious,Cloudy,4,0,Rural Road,Daylight
+SYN-0322,2022-07-10,08:12,Varanasi,Motorcycle,Minor,Cloudy,4,0,Urban Road,Daylight
+SYN-0323,2024-12-20,14:03,Lucknow,Truck,Fatal,Clear,3,1,Highway,Dark - No Street Lights
+SYN-0324,2026-06-05,19:43,Prayagraj,Motorcycle,Minor,Rainy,3,0,Urban Road,Dark - Street Lights
+SYN-0325,2026-09-18,06:56,Meerut,Tractor,Fatal,Clear,3,2,Intersection,Dark - No Street Lights
+SYN-0326,2023-02-11,12:59,Gorakhpur,Other,Minor,Clear,2,0,Rural Road,Daylight
+SYN-0327,2023-02-22,18:15,Moradabad,Bus,Serious,Clear,2,0,Intersection,Dark - Street Lights
+SYN-0328,2022-03-08,11:47,Kanpur,Car,Minor,Clear,3,0,Rural Road,Dark - Street Lights
+SYN-0329,2022-09-07,08:30,Varanasi,Motorcycle,Minor,Cloudy,1,0,Rural Road,Daylight
+SYN-0330,2024-09-06,08:02,Moradabad,Auto-rickshaw,Serious,Cloudy,2,0,Urban Road,Daylight
+SYN-0331,2024-08-23,12:05,Meerut,Bus,Serious,Foggy,3,0,Intersection,Daylight
+SYN-0332,2023-10-17,14:32,Lucknow,Motorcycle,Serious,Rainy,4,0,Urban Road,Daylight
+SYN-0333,2023-07-02,19:25,Bareilly,Car,Minor,Rainy,3,0,Urban Road,Daylight
+SYN-0334,2026-01-04,17:00,Gorakhpur,Car,Minor,Dusty,2,0,Rural Road,Daylight
+SYN-0335,2024-03-22,17:55,Bareilly,Auto-rickshaw,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0336,2025-11-27,22:43,Ghaziabad,Truck,Minor,Clear,3,0,Highway,Dark - Street Lights
+SYN-0337,2026-08-28,12:30,Kanpur,Truck,Serious,Rainy,3,1,Urban Road,Daylight
+SYN-0338,2023-07-14,12:59,Meerut,Truck,Serious,Clear,1,1,Urban Road,Daylight
+SYN-0339,2022-12-24,20:58,Varanasi,Motorcycle,Serious,Clear,3,1,Rural Road,Dark - Street Lights
+SYN-0340,2026-08-09,08:58,Moradabad,Motorcycle,Serious,Clear,2,0,Urban Road,Daylight
+SYN-0341,2025-01-25,18:15,Agra,Motorcycle,Serious,Rainy,3,1,Rural Road,Daylight
+SYN-0342,2023-05-29,18:52,Agra,Bus,Serious,Clear,4,0,Urban Road,Daylight
+SYN-0343,2025-01-02,06:30,Prayagraj,Car,Minor,Clear,4,0,Rural Road,Daylight
+SYN-0344,2024-06-28,13:43,Kanpur,Car,Minor,Clear,3,0,Highway,Daylight
+SYN-0345,2026-05-18,08:51,Varanasi,Motorcycle,Minor,Clear,2,0,Intersection,Daylight
+SYN-0346,2023-03-28,08:09,Varanasi,Motorcycle,Serious,Cloudy,2,0,Urban Road,Daylight
+SYN-0347,2026-10-16,13:26,Agra,Car,Minor,Clear,1,0,Urban Road,Dark - No Street Lights
+SYN-0348,2026-07-11,09:07,Bareilly,Motorcycle,Minor,Rainy,4,0,Urban Road,Dark - No Street Lights
+SYN-0349,2022-11-15,19:16,Agra,Motorcycle,Serious,Foggy,4,0,Urban Road,Daylight
+SYN-0350,2022-10-18,20:24,Ghaziabad,Bus,Minor,Clear,4,0,Urban Road,Daylight
+SYN-0351,2024-07-30,19:51,Kanpur,Motorcycle,Minor,Foggy,2,0,Rural Road,Daylight
+SYN-0352,2022-03-21,09:51,Meerut,Car,Serious,Rainy,2,1,Intersection,Dark - Street Lights
+SYN-0353,2023-06-12,09:23,Agra,Car,Serious,Rainy,4,0,Rural Road,Dark - Street Lights
+SYN-0354,2024-02-07,09:19,Moradabad,Auto-rickshaw,Minor,Clear,3,0,Urban Road,Daylight
+SYN-0355,2026-09-07,07:31,Lucknow,Motorcycle,Serious,Clear,3,0,Urban Road,Daylight
+SYN-0356,2026-10-18,21:54,Meerut,Bus,Minor,Dusty,2,0,Rural Road,Daylight
+SYN-0357,2022-09-25,12:58,Meerut,Tractor,Serious,Foggy,2,0,Rural Road,Dark - No Street Lights
+SYN-0358,2026-04-23,08:13,Kanpur,Truck,Minor,Cloudy,3,0,Urban Road,Dark - No Street Lights
+SYN-0359,2022-06-10,19:11,Bareilly,Car,Minor,Cloudy,4,0,Intersection,Daylight
+SYN-0360,2025-08-14,12:42,Prayagraj,Bus,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0361,2026-02-01,03:18,Lucknow,Car,Minor,Foggy,4,0,Rural Road,Daylight
+SYN-0362,2026-04-22,07:11,Varanasi,Car,Serious,Clear,1,0,Intersection,Dark - Street Lights
+SYN-0363,2023-01-30,17:01,Bareilly,Car,Minor,Foggy,2,0,Rural Road,Dark - No Street Lights
+SYN-0364,2026-04-26,18:24,Gorakhpur,Motorcycle,Minor,Clear,4,0,Highway,Daylight
+SYN-0365,2022-07-24,08:23,Meerut,Motorcycle,Minor,Clear,4,0,Urban Road,Daylight
+SYN-0366,2024-07-04,20:33,Moradabad,Car,Serious,Foggy,4,0,Highway,Daylight
+SYN-0367,2024-04-08,19:12,Kanpur,Motorcycle,Serious,Foggy,2,0,Rural Road,Daylight
+SYN-0368,2023-07-12,19:42,Varanasi,Car,Fatal,Rainy,4,2,Urban Road,Dark - Street Lights
+SYN-0369,2022-02-09,08:40,Lucknow,Car,Minor,Clear,4,0,Rural Road,Daylight
+SYN-0370,2025-09-24,05:27,Prayagraj,Tractor,Minor,Clear,4,0,Intersection,Dark - No Street Lights
+SYN-0371,2023-08-16,19:10,Moradabad,Motorcycle,Minor,Dusty,1,0,Highway,Daylight
+SYN-0372,2025-03-13,09:30,Lucknow,Car,Minor,Clear,3,0,Urban Road,Daylight
+SYN-0373,2023-12-26,16:40,Moradabad,Car,Fatal,Clear,4,3,Rural Road,Daylight
+SYN-0374,2023-10-22,18:22,Kanpur,Motorcycle,Serious,Rainy,4,0,Urban Road,Daylight
+SYN-0375,2026-04-14,07:15,Ghaziabad,Motorcycle,Minor,Clear,1,0,Highway,Daylight
+SYN-0376,2022-06-16,18:30,Lucknow,Motorcycle,Minor,Rainy,4,0,Highway,Dark - Street Lights
+SYN-0377,2025-07-24,21:21,Gorakhpur,Motorcycle,Serious,Clear,1,0,Urban Road,Daylight
+SYN-0378,2025-08-11,18:24,Kanpur,Motorcycle,Minor,Foggy,2,0,Rural Road,Daylight
+SYN-0379,2023-11-02,13:20,Moradabad,Car,Minor,Cloudy,3,0,Urban Road,Daylight
+SYN-0380,2023-04-09,20:18,Agra,Car,Minor,Cloudy,2,0,Highway,Daylight
+SYN-0381,2022-01-10,15:43,Ghaziabad,Motorcycle,Minor,Rainy,3,0,Urban Road,Dark - No Street Lights
+SYN-0382,2026-07-12,18:27,Lucknow,Motorcycle,Minor,Clear,1,0,Urban Road,Dark - No Street Lights
+SYN-0383,2026-07-31,19:27,Moradabad,Motorcycle,Minor,Rainy,3,0,Urban Road,Daylight
+SYN-0384,2023-03-02,18:39,Meerut,Car,Minor,Foggy,3,0,Rural Road,Dark - Street Lights
+SYN-0385,2022-02-26,09:21,Prayagraj,Motorcycle,Minor,Rainy,3,0,Urban Road,Dark - Street Lights
+SYN-0386,2022-08-05,07:06,Agra,Car,Minor,Rainy,2,0,Urban Road,Dark - No Street Lights
+SYN-0387,2022-04-30,08:51,Ghaziabad,Motorcycle,Minor,Foggy,2,0,Intersection,Daylight
+SYN-0388,2026-01-06,14:03,Meerut,Motorcycle,Fatal,Rainy,2,2,Urban Road,Daylight
+SYN-0389,2026-04-24,14:34,Agra,Tractor,Serious,Foggy,2,1,Rural Road,Daylight
+SYN-0390,2022-09-28,16:15,Prayagraj,Motorcycle,Minor,Clear,3,0,Highway,Dark - Street Lights
+SYN-0391,2025-08-10,12:12,Moradabad,Motorcycle,Minor,Clear,2,0,Highway,Dark - Street Lights
+SYN-0392,2022-11-13,18:02,Agra,Motorcycle,Serious,Rainy,2,1,Highway,Daylight
+SYN-0393,2023-10-11,20:54,Prayagraj,Other,Minor,Clear,2,0,Rural Road,Daylight
+SYN-0394,2024-11-23,08:25,Lucknow,Car,Minor,Cloudy,1,0,Rural Road,Dark - Street Lights
+SYN-0395,2025-06-24,18:20,Gorakhpur,Car,Serious,Rainy,3,0,Highway,Dark - Street Lights
+SYN-0396,2026-03-24,17:44,Gorakhpur,Other,Minor,Clear,4,0,Highway,Daylight
+SYN-0397,2022-03-21,15:02,Kanpur,Motorcycle,Serious,Foggy,2,1,Urban Road,Dark - Street Lights
+SYN-0398,2022-12-13,08:33,Agra,Other,Minor,Rainy,4,0,Urban Road,Daylight
+SYN-0399,2023-05-11,19:29,Lucknow,Motorcycle,Minor,Foggy,3,0,Rural Road,Daylight
+SYN-0400,2023-07-02,21:33,Prayagraj,Car,Minor,Clear,1,0,Rural Road,Daylight
+SYN-0401,2026-10-28,18:07,Lucknow,Car,Minor,Cloudy,2,0,Intersection,Dark - Street Lights
+SYN-0402,2025-10-04,20:57,Agra,Car,Minor,Clear,1,0,Urban Road,Dark - No Street Lights
+SYN-0403,2023-07-20,22:14,Prayagraj,Tractor,Minor,Rainy,1,0,Rural Road,Daylight
+SYN-0404,2026-09-12,11:40,Bareilly,Motorcycle,Serious,Clear,2,1,Urban Road,Daylight
+SYN-0405,2024-05-31,17:44,Prayagraj,Other,Minor,Rainy,2,0,Urban Road,Daylight
+SYN-0406,2024-06-02,13:20,Kanpur,Motorcycle,Minor,Rainy,4,0,Intersection,Daylight
+SYN-0407,2024-02-05,23:07,Ghaziabad,Truck,Serious,Rainy,1,0,Highway,Daylight
+SYN-0408,2022-09-11,06:17,Bareilly,Tractor,Serious,Clear,4,0,Rural Road,Daylight
+SYN-0409,2026-07-08,12:48,Ghaziabad,Motorcycle,Minor,Foggy,1,0,Rural Road,Daylight
+SYN-0410,2022-01-25,20:54,Varanasi,Bicycle,Minor,Rainy,1,0,Intersection,Daylight
+SYN-0411,2022-11-04,09:56,Meerut,Car,Fatal,Clear,3,2,Urban Road,Daylight
+SYN-0412,2023-02-10,18:13,Agra,Truck,Serious,Dusty,4,0,Urban Road,Dark - Street Lights
+SYN-0413,2023-05-08,11:36,Meerut,Motorcycle,Serious,Rainy,3,0,Rural Road,Daylight
+SYN-0414,2022-08-21,22:09,Kanpur,Car,Serious,Dusty,1,1,Rural Road,Daylight
+SYN-0415,2022-02-01,20:42,Kanpur,Truck,Serious,Dusty,1,1,Urban Road,Dark - No Street Lights
+SYN-0416,2025-04-11,09:24,Prayagraj,Car,Minor,Cloudy,2,0,Rural Road,Daylight
+SYN-0417,2026-09-07,18:42,Prayagraj,Motorcycle,Minor,Foggy,2,0,Urban Road,Daylight
+SYN-0418,2022-08-04,10:41,Ghaziabad,Motorcycle,Minor,Rainy,4,0,Urban Road,Daylight
+SYN-0419,2023-06-08,16:59,Kanpur,Auto-rickshaw,Minor,Clear,2,0,Intersection,Daylight
+SYN-0420,2024-06-12,17:29,Meerut,Motorcycle,Fatal,Clear,1,1,Urban Road,Daylight
+SYN-0421,2026-06-26,19:20,Agra,Truck,Minor,Foggy,4,0,Urban Road,Daylight
+SYN-0422,2025-05-10,02:31,Prayagraj,Other,Minor,Clear,1,0,Intersection,Daylight
+SYN-0423,2025-09-14,08:09,Gorakhpur,Motorcycle,Minor,Cloudy,1,0,Rural Road,Daylight
+SYN-0424,2024-10-22,18:06,Prayagraj,Motorcycle,Fatal,Clear,2,1,Intersection,Daylight
+SYN-0425,2024-01-07,15:31,Bareilly,Truck,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0426,2022-12-19,14:49,Gorakhpur,Motorcycle,Minor,Clear,3,0,Intersection,Daylight
+SYN-0427,2026-03-06,05:31,Gorakhpur,Car,Minor,Clear,4,0,Highway,Daylight
+SYN-0428,2025-11-20,11:46,Varanasi,Truck,Minor,Clear,4,0,Urban Road,Dark - Street Lights
+SYN-0429,2022-02-14,19:10,Varanasi,Car,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0430,2025-06-16,03:26,Lucknow,Motorcycle,Minor,Foggy,4,0,Rural Road,Daylight
+SYN-0431,2022-05-29,12:36,Prayagraj,Truck,Minor,Clear,3,0,Intersection,Daylight
+SYN-0432,2025-07-28,21:20,Gorakhpur,Car,Minor,Clear,1,0,Rural Road,Daylight
+SYN-0433,2025-12-28,05:00,Varanasi,Motorcycle,Minor,Clear,4,0,Rural Road,Dark - No Street Lights
+SYN-0434,2022-08-20,18:04,Agra,Car,Minor,Clear,1,0,Urban Road,Daylight
+SYN-0435,2024-02-05,09:55,Lucknow,Auto-rickshaw,Minor,Clear,3,0,Urban Road,Daylight
+SYN-0436,2022-08-07,19:36,Agra,Truck,Serious,Rainy,4,1,Urban Road,Dark - No Street Lights
+SYN-0437,2024-09-28,18:15,Kanpur,Car,Minor,Foggy,1,0,Highway,Dark - Street Lights
+SYN-0438,2026-06-26,20:15,Gorakhpur,Motorcycle,Minor,Clear,2,0,Urban Road,Dark - Street Lights
+SYN-0439,2022-05-23,08:02,Prayagraj,Motorcycle,Minor,Rainy,2,0,Intersection,Daylight
+SYN-0440,2023-12-03,15:56,Lucknow,Motorcycle,Minor,Clear,4,0,Rural Road,Daylight
+SYN-0441,2026-09-14,18:06,Moradabad,Motorcycle,Minor,Clear,1,0,Rural Road,Dark - Street Lights
+SYN-0442,2023-06-16,08:45,Meerut,Other,Minor,Cloudy,3,0,Urban Road,Daylight
+SYN-0443,2022-08-22,08:14,Gorakhpur,Motorcycle,Serious,Clear,2,0,Urban Road,Daylight
+SYN-0444,2024-05-12,02:20,Ghaziabad,Auto-rickshaw,Minor,Cloudy,1,0,Highway,Dark - Street Lights
+SYN-0445,2024-06-16,21:16,Lucknow,Motorcycle,Minor,Clear,3,0,Urban Road,Daylight
+SYN-0446,2025-03-15,18:49,Moradabad,Motorcycle,Minor,Clear,4,0,Urban Road,Daylight
+SYN-0447,2023-07-08,17:01,Lucknow,Car,Minor,Clear,3,0,Urban Road,Daylight
+SYN-0448,2026-08-14,18:21,Ghaziabad,Motorcycle,Minor,Clear,1,0,Highway,Daylight
+SYN-0449,2024-07-08,15:16,Ghaziabad,Bus,Serious,Dusty,1,1,Rural Road,Daylight
+SYN-0450,2023-05-21,13:16,Meerut,Tractor,Serious,Clear,2,0,Urban Road,Dark - Street Lights
+SYN-0451,2026-08-22,13:11,Moradabad,Auto-rickshaw,Minor,Cloudy,3,0,Urban Road,Daylight
+SYN-0452,2026-06-21,17:54,Lucknow,Motorcycle,Minor,Cloudy,3,0,Urban Road,Daylight
+SYN-0453,2024-05-31,08:22,Gorakhpur,Bus,Minor,Rainy,1,0,Urban Road,Daylight
+SYN-0454,2022-02-13,20:25,Gorakhpur,Motorcycle,Minor,Clear,3,0,Urban Road,Daylight
+SYN-0455,2024-11-19,19:23,Ghaziabad,Bicycle,Serious,Clear,2,0,Urban Road,Daylight
+SYN-0456,2024-09-06,11:58,Lucknow,Car,Minor,Clear,3,0,Urban Road,Dark - No Street Lights
+SYN-0457,2022-09-19,16:20,Moradabad,Motorcycle,Minor,Foggy,4,0,Highway,Daylight
+SYN-0458,2025-01-23,07:20,Moradabad,Motorcycle,Serious,Clear,3,0,Intersection,Daylight
+SYN-0459,2026-01-24,22:19,Bareilly,Motorcycle,Minor,Cloudy,1,0,Highway,Dark - No Street Lights
+SYN-0460,2022-07-06,20:19,Meerut,Motorcycle,Minor,Rainy,4,0,Urban Road,Daylight
+SYN-0461,2025-06-30,20:05,Bareilly,Bicycle,Serious,Clear,1,0,Highway,Dark - No Street Lights
+SYN-0462,2022-09-05,10:36,Kanpur,Bus,Minor,Rainy,4,0,Urban Road,Daylight
+SYN-0463,2025-08-14,07:01,Ghaziabad,Tractor,Minor,Clear,1,0,Urban Road,Daylight
+SYN-0464,2024-01-10,08:13,Moradabad,Motorcycle,Minor,Cloudy,3,0,Intersection,Dark - No Street Lights
+SYN-0465,2022-01-12,06:12,Meerut,Car,Serious,Clear,1,0,Urban Road,Daylight
+SYN-0466,2026-09-02,07:17,Meerut,Motorcycle,Minor,Dusty,1,0,Rural Road,Daylight
+SYN-0467,2022-10-20,06:45,Ghaziabad,Car,Minor,Foggy,3,0,Urban Road,Daylight
+SYN-0468,2024-11-18,23:35,Meerut,Motorcycle,Minor,Cloudy,3,0,Highway,Dark - Street Lights
+SYN-0469,2022-11-17,06:59,Prayagraj,Motorcycle,Minor,Clear,1,0,Urban Road,Daylight
+SYN-0470,2026-07-05,07:21,Varanasi,Car,Minor,Foggy,4,0,Urban Road,Daylight
+SYN-0471,2025-07-27,19:55,Agra,Motorcycle,Minor,Clear,2,0,Urban Road,Dark - Street Lights
+SYN-0472,2025-11-20,16:02,Gorakhpur,Car,Minor,Foggy,2,0,Intersection,Dark - Street Lights
+SYN-0473,2024-02-02,18:30,Bareilly,Truck,Minor,Clear,2,0,Rural Road,Daylight
+SYN-0474,2024-04-04,17:47,Lucknow,Motorcycle,Serious,Clear,2,0,Intersection,Daylight
+SYN-0475,2025-01-24,20:31,Gorakhpur,Tractor,Minor,Clear,1,0,Urban Road,Daylight
+SYN-0476,2025-10-17,17:55,Moradabad,Car,Serious,Clear,2,0,Rural Road,Daylight
+SYN-0477,2026-02-03,15:18,Prayagraj,Auto-rickshaw,Minor,Clear,1,0,Urban Road,Daylight
+SYN-0478,2022-02-01,18:01,Lucknow,Truck,Minor,Foggy,1,0,Rural Road,Daylight
+SYN-0479,2025-03-17,13:46,Bareilly,Truck,Serious,Clear,2,1,Intersection,Daylight
+SYN-0480,2022-07-12,10:04,Varanasi,Truck,Serious,Foggy,3,0,Rural Road,Daylight
+SYN-0481,2023-05-24,13:45,Varanasi,Auto-rickshaw,Minor,Clear,4,0,Intersection,Dark - Street Lights
+SYN-0482,2026-01-03,07:44,Bareilly,Car,Serious,Foggy,2,1,Rural Road,Daylight
+SYN-0483,2023-03-19,19:50,Ghaziabad,Motorcycle,Minor,Foggy,2,0,Highway,Dark - No Street Lights
+SYN-0484,2025-11-07,09:28,Agra,Motorcycle,Minor,Clear,4,0,Rural Road,Dark - No Street Lights
+SYN-0485,2024-03-28,07:53,Gorakhpur,Car,Fatal,Rainy,3,3,Urban Road,Daylight
+SYN-0486,2023-02-15,08:10,Varanasi,Motorcycle,Minor,Cloudy,4,0,Intersection,Dark - No Street Lights
+SYN-0487,2023-08-13,19:26,Lucknow,Motorcycle,Serious,Foggy,4,0,Rural Road,Dark - Street Lights
+SYN-0488,2024-07-25,10:07,Moradabad,Motorcycle,Minor,Clear,4,0,Highway,Daylight
+SYN-0489,2025-09-12,17:46,Kanpur,Car,Serious,Clear,4,0,Highway,Dark - Street Lights
+SYN-0490,2024-12-05,19:42,Bareilly,Motorcycle,Minor,Foggy,2,0,Highway,Daylight
+SYN-0491,2026-07-06,06:48,Prayagraj,Car,Minor,Clear,2,0,Urban Road,Dark - Street Lights
+SYN-0492,2026-03-12,18:45,Agra,Bus,Minor,Foggy,2,0,Highway,Daylight
+SYN-0493,2025-08-22,10:18,Varanasi,Auto-rickshaw,Minor,Clear,1,0,Rural Road,Daylight
+SYN-0494,2024-11-30,08:04,Meerut,Motorcycle,Minor,Foggy,3,0,Urban Road,Daylight
+SYN-0495,2023-05-27,17:55,Prayagraj,Car,Minor,Clear,3,0,Rural Road,Dark - No Street Lights
+SYN-0496,2023-12-30,20:29,Moradabad,Car,Minor,Clear,4,0,Urban Road,Daylight
+SYN-0497,2022-07-29,09:05,Moradabad,Car,Minor,Dusty,1,0,Urban Road,Daylight
+SYN-0498,2023-10-23,16:55,Varanasi,Truck,Minor,Cloudy,2,0,Highway,Daylight
+SYN-0499,2026-06-24,09:59,Varanasi,Motorcycle,Serious,Cloudy,1,0,Intersection,Daylight
+SYN-0500,2024-01-22,15:26,Meerut,Other,Serious,Dusty,4,0,Highway,Dark - Street Lights
+SYN-0501,2022-07-20,16:46,Prayagraj,Motorcycle,Serious,Clear,2,0,Highway,Dark - Street Lights
+SYN-0502,2025-02-24,16:02,Ghaziabad,Auto-rickshaw,Minor,Clear,1,0,Highway,Daylight
+SYN-0503,2026-08-27,16:05,Prayagraj,Car,Serious,Clear,3,0,Rural Road,Daylight
+SYN-0504,2026-03-12,07:16,Agra,Motorcycle,Minor,Clear,4,0,Highway,Daylight
+SYN-0505,2023-04-29,17:39,Bareilly,Bus,Minor,Clear,4,0,Rural Road,Daylight
+SYN-0506,2024-03-12,17:08,Bareilly,Motorcycle,Minor,Cloudy,1,0,Rural Road,Dark - Street Lights
+SYN-0507,2024-07-26,17:02,Ghaziabad,Bus,Serious,Clear,2,0,Rural Road,Dark - Street Lights
+SYN-0508,2023-03-14,06:40,Lucknow,Car,Minor,Clear,1,0,Highway,Daylight
+SYN-0509,2023-04-20,13:46,Bareilly,Motorcycle,Minor,Clear,2,0,Highway,Daylight
+SYN-0510,2023-02-22,12:44,Kanpur,Motorcycle,Fatal,Clear,3,2,Urban Road,Daylight
+SYN-0511,2026-10-22,06:47,Ghaziabad,Bus,Minor,Clear,2,0,Highway,Daylight
+SYN-0512,2025-08-09,08:48,Ghaziabad,Motorcycle,Minor,Rainy,1,0,Rural Road,Daylight
+SYN-0513,2026-01-24,13:36,Bareilly,Auto-rickshaw,Fatal,Clear,3,3,Urban Road,Dark - Street Lights
+SYN-0514,2025-12-12,18:31,Gorakhpur,Bus,Minor,Rainy,1,0,Urban Road,Daylight
+SYN-0515,2026-08-20,08:51,Prayagraj,Truck,Minor,Cloudy,1,0,Highway,Dark - No Street Lights
+SYN-0516,2022-07-05,19:20,Moradabad,Motorcycle,Serious,Rainy,1,0,Urban Road,Daylight
+SYN-0517,2026-04-06,15:05,Bareilly,Truck,Serious,Rainy,1,0,Highway,Daylight
+SYN-0518,2022-04-28,18:45,Ghaziabad,Tractor,Minor,Clear,2,0,Rural Road,Daylight
+SYN-0519,2024-04-19,13:16,Lucknow,Motorcycle,Minor,Clear,4,0,Highway,Daylight
+SYN-0520,2024-11-15,14:58,Lucknow,Motorcycle,Minor,Clear,4,0,Intersection,Daylight
+SYN-0521,2023-09-24,16:24,Kanpur,Motorcycle,Minor,Dusty,1,0,Rural Road,Daylight
+SYN-0522,2022-09-15,20:51,Meerut,Car,Minor,Rainy,1,0,Highway,Dark - Street Lights
+SYN-0523,2022-12-06,14:02,Prayagraj,Bus,Minor,Clear,2,0,Highway,Daylight
+SYN-0524,2025-12-26,15:39,Gorakhpur,Car,Serious,Clear,3,1,Urban Road,Dark - Street Lights
+SYN-0525,2023-07-17,16:26,Meerut,Car,Serious,Foggy,3,1,Highway,Dark - Street Lights
+SYN-0526,2023-07-02,18:27,Prayagraj,Motorcycle,Minor,Rainy,4,0,Highway,Daylight
+SYN-0527,2026-06-18,06:15,Bareilly,Motorcycle,Minor,Rainy,2,0,Intersection,Daylight
+SYN-0528,2022-09-11,14:58,Agra,Motorcycle,Minor,Cloudy,1,0,Rural Road,Daylight
+SYN-0529,2026-06-04,14:23,Moradabad,Auto-rickshaw,Serious,Rainy,1,1,Highway,Daylight
+SYN-0530,2026-06-14,20:51,Agra,Car,Minor,Rainy,1,0,Urban Road,Dark - Street Lights
+SYN-0531,2024-11-22,14:25,Prayagraj,Motorcycle,Minor,Clear,1,0,Urban Road,Dark - No Street Lights
+SYN-0532,2022-10-20,13:02,Lucknow,Bus,Minor,Clear,4,0,Intersection,Daylight
+SYN-0533,2022-10-03,21:52,Kanpur,Motorcycle,Minor,Dusty,2,0,Highway,Daylight
+SYN-0534,2023-05-18,13:11,Moradabad,Motorcycle,Serious,Rainy,4,0,Rural Road,Dark - Street Lights
+SYN-0535,2024-10-16,08:16,Ghaziabad,Motorcycle,Serious,Clear,3,0,Rural Road,Dark - Street Lights
+SYN-0536,2022-09-29,08:51,Meerut,Other,Minor,Rainy,3,0,Highway,Daylight
+SYN-0537,2024-03-15,06:53,Meerut,Truck,Serious,Clear,2,1,Highway,Dark - Street Lights
+SYN-0538,2022-07-23,00:55,Agra,Car,Fatal,Foggy,4,1,Urban Road,Daylight
+SYN-0539,2024-08-11,12:25,Prayagraj,Motorcycle,Minor,Clear,1,0,Intersection,Daylight
+SYN-0540,2022-02-07,18:45,Gorakhpur,Motorcycle,Minor,Foggy,1,0,Urban Road,Daylight
+SYN-0541,2025-06-05,18:19,Prayagraj,Truck,Minor,Clear,2,0,Rural Road,Daylight
+SYN-0542,2022-04-08,03:44,Kanpur,Motorcycle,Serious,Clear,2,0,Rural Road,Dark - No Street Lights
+SYN-0543,2022-12-10,16:30,Agra,Bicycle,Minor,Clear,3,0,Rural Road,Daylight
+SYN-0544,2022-11-05,07:03,Ghaziabad,Bus,Minor,Foggy,3,0,Urban Road,Daylight
+SYN-0545,2026-01-06,21:25,Varanasi,Car,Minor,Clear,3,0,Urban Road,Daylight
+SYN-0546,2022-04-05,07:28,Meerut,Bus,Serious,Clear,2,0,Rural Road,Daylight
+SYN-0547,2024-01-28,16:15,Meerut,Other,Minor,Foggy,2,0,Urban Road,Daylight
+SYN-0548,2024-11-09,10:22,Moradabad,Car,Serious,Clear,4,1,Intersection,Daylight
+SYN-0549,2024-06-29,17:30,Ghaziabad,Truck,Minor,Clear,1,0,Highway,Dark - Street Lights
+SYN-0550,2025-04-16,12:02,Agra,Bicycle,Fatal,Clear,3,2,Highway,Daylight
+SYN-0551,2025-11-18,18:09,Prayagraj,Motorcycle,Minor,Cloudy,3,0,Rural Road,Dark - Street Lights
+SYN-0552,2023-11-26,08:46,Kanpur,Auto-rickshaw,Minor,Clear,4,0,Urban Road,Daylight
+SYN-0553,2026-01-01,20:21,Agra,Motorcycle,Serious,Clear,3,0,Highway,Dark - Street Lights
+SYN-0554,2023-07-16,14:36,Agra,Truck,Serious,Clear,2,0,Highway,Dark - Street Lights
+SYN-0555,2026-10-04,18:33,Moradabad,Bus,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0556,2024-06-09,19:33,Ghaziabad,Car,Minor,Clear,2,0,Rural Road,Daylight
+SYN-0557,2025-07-23,23:24,Lucknow,Car,Serious,Clear,2,0,Highway,Dark - No Street Lights
+SYN-0558,2026-03-25,08:28,Agra,Car,Serious,Clear,1,0,Highway,Daylight
+SYN-0559,2025-10-31,09:49,Lucknow,Motorcycle,Minor,Clear,3,0,Urban Road,Dark - Street Lights
+SYN-0560,2026-02-11,09:57,Lucknow,Motorcycle,Minor,Cloudy,1,0,Intersection,Daylight
+SYN-0561,2024-08-04,09:15,Agra,Motorcycle,Serious,Clear,3,0,Urban Road,Daylight
+SYN-0562,2022-03-18,16:40,Gorakhpur,Car,Serious,Clear,4,0,Intersection,Daylight
+SYN-0563,2024-05-20,23:58,Gorakhpur,Car,Serious,Cloudy,4,0,Intersection,Dark - No Street Lights
+SYN-0564,2022-11-17,23:00,Agra,Motorcycle,Minor,Cloudy,1,0,Urban Road,Daylight
+SYN-0565,2026-04-19,15:47,Prayagraj,Auto-rickshaw,Minor,Rainy,4,0,Rural Road,Dark - Street Lights
+SYN-0566,2023-02-22,17:29,Gorakhpur,Motorcycle,Serious,Clear,1,0,Rural Road,Dark - Street Lights
+SYN-0567,2023-02-07,19:58,Kanpur,Car,Serious,Clear,2,1,Urban Road,Daylight
+SYN-0568,2023-03-17,21:34,Gorakhpur,Car,Serious,Clear,1,0,Urban Road,Daylight
+SYN-0569,2025-02-08,08:50,Lucknow,Motorcycle,Minor,Clear,1,0,Rural Road,Daylight
+SYN-0570,2024-10-05,15:09,Kanpur,Bus,Minor,Clear,1,0,Rural Road,Daylight
+SYN-0571,2026-08-02,19:08,Agra,Car,Serious,Rainy,1,0,Rural Road,Dark - Street Lights
+SYN-0572,2024-01-05,09:55,Moradabad,Motorcycle,Minor,Clear,4,0,Intersection,Daylight
+SYN-0573,2023-05-14,13:31,Meerut,Tractor,Fatal,Rainy,1,1,Urban Road,Daylight
+SYN-0574,2022-03-28,23:33,Meerut,Auto-rickshaw,Minor,Clear,2,0,Rural Road,Dark - Street Lights
+SYN-0575,2022-01-13,22:10,Agra,Truck,Serious,Clear,3,0,Intersection,Daylight
+SYN-0576,2023-10-22,20:13,Meerut,Auto-rickshaw,Serious,Foggy,4,0,Highway,Daylight
+SYN-0577,2026-06-23,19:49,Ghaziabad,Bicycle,Minor,Cloudy,4,0,Highway,Daylight
+SYN-0578,2024-07-13,09:18,Meerut,Motorcycle,Minor,Clear,1,0,Urban Road,Daylight
+SYN-0579,2026-04-27,10:35,Meerut,Car,Minor,Rainy,4,0,Intersection,Dark - Street Lights
+SYN-0580,2022-06-29,15:18,Prayagraj,Car,Minor,Clear,3,0,Urban Road,Daylight
+SYN-0581,2022-06-14,15:15,Lucknow,Motorcycle,Minor,Clear,1,0,Rural Road,Daylight
+SYN-0582,2026-01-11,14:09,Gorakhpur,Motorcycle,Minor,Foggy,2,0,Highway,Daylight
+SYN-0583,2022-07-08,17:55,Bareilly,Motorcycle,Serious,Clear,4,0,Urban Road,Daylight
+SYN-0584,2022-04-02,12:56,Gorakhpur,Truck,Minor,Clear,2,0,Rural Road,Daylight
+SYN-0585,2023-12-15,18:06,Gorakhpur,Bus,Minor,Clear,1,0,Highway,Daylight
+SYN-0586,2026-06-21,10:21,Lucknow,Bus,Minor,Clear,4,0,Intersection,Dark - Street Lights
+SYN-0587,2025-05-01,10:33,Varanasi,Motorcycle,Minor,Clear,4,0,Highway,Dark - Street Lights
+SYN-0588,2022-06-24,07:22,Lucknow,Motorcycle,Minor,Clear,4,0,Intersection,Daylight
+SYN-0589,2026-01-17,08:43,Moradabad,Car,Minor,Dusty,4,0,Highway,Dark - Street Lights
+SYN-0590,2026-01-28,19:15,Gorakhpur,Car,Serious,Rainy,4,0,Intersection,Daylight
+SYN-0591,2025-11-14,13:03,Gorakhpur,Bicycle,Minor,Clear,2,0,Rural Road,Dark - No Street Lights
+SYN-0592,2026-05-13,08:20,Gorakhpur,Auto-rickshaw,Fatal,Clear,1,1,Highway,Daylight
+SYN-0593,2023-02-28,18:35,Meerut,Bicycle,Minor,Rainy,3,0,Highway,Daylight
+SYN-0594,2026-09-25,15:10,Bareilly,Auto-rickshaw,Minor,Clear,1,0,Highway,Daylight
+SYN-0595,2023-07-21,01:48,Prayagraj,Tractor,Serious,Clear,2,0,Urban Road,Daylight
+SYN-0596,2025-11-16,10:00,Gorakhpur,Car,Serious,Foggy,3,0,Rural Road,Dark - Street Lights
+SYN-0597,2024-10-19,08:04,Prayagraj,Motorcycle,Minor,Clear,4,0,Urban Road,Daylight
+SYN-0598,2025-10-07,17:30,Bareilly,Motorcycle,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0599,2025-01-13,09:30,Kanpur,Car,Minor,Clear,2,0,Urban Road,Daylight
+SYN-0600,2025-02-07,06:17,Ghaziabad,Motorcycle,Minor,Clear,3,0,Urban Road,Dark - No Street Lights
